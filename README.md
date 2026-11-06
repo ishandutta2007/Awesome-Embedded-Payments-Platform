@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Payments-Platform?style=flat-square)](https://github.com/ishandutta2007/Awesome-Embedded-Payments-Platform/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Embedded-Payments-Platform?style=flat-square)](https://github.com/ishandutta2007/Awesome-Embedded-Payments-Platform/issues)
 [![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Embedded-Payments-Platform?style=flat-square)](LICENSE)
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=flat-square" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 </div>
 
@@ -75,13 +75,17 @@ This list is public domain / CC0. Feel free to copy into your own awesome list o
 Star the projects you find useful — open financial infrastructure helps more companies embed payments responsibly! 💳
 
 
-##  Star History
-<div align="center">
-<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Embedded-Payments-Platform&type=date&legend=bottom-right">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Embedded-Payments-Platform&type=date&theme=dark&legend=bottom-right" />
-<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Embedded-Payments-Platform&type=date&legend=bottom-right" />
-<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Embedded-Payments-Platform&type=date&legend=bottom-right" />
-</picture>
-</a>
-</div>
+## 💖 Support
+
+Thank you for exploring this list! If you found it helpful or inspiring, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** and contribute open-source embedded finance or payment infrastructure projects.
+- 📢 **Share** this collection with your fellow developers, fintech builders, and teams.
+- ☕ **Buy me a coffee**: If you'd like to support my open-source work directly, you can sponsor or buy a coffee via my [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Embedded-Payments-Platform&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Embedded-Payments-Platform&type=date&legend=top-left)
