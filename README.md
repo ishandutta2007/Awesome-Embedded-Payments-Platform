@@ -18,6 +18,10 @@
 
 Below is a **curated list** of notable platforms and their open-source equivalents. Fully regulated embedded banking (FDIC-insured accounts, card issuing, etc.) requires licensed banks or BaaS partners and cannot be purely open-source. Open-source strength lies in ledgers, payment orchestration primitives, and financial infrastructure that teams can use to build or complement embedded finance products.
 
+## 📊 Sector Overview & Market Dynamics
+
+The global embedded finance and embedded payments market is estimated to reach over **$380 billion by 2030–2032** (with embedded payments alone capturing the largest share, driving hundreds of billions in transaction revenue). The sector exhibits **moderate fragmentation with strong consolidation at the top**—while giant full-stack players like Stripe and Adyen capture large global market shares due to high barrier network effects and licensing scale, the market leaves ample room for specialized, regional, and vertical-specific BaaS/embedded payment providers tailored to distinct compliance and niche industry requirements.
+
 ## 🏢 SaaS / Hosted Platforms ☁️
 
 | Platform | Description | Pricing | Free Tier Limit | Company Size |
